@@ -20,5 +20,16 @@ public class Item
 public enum ItemType
 {
     Bag,
-
+    Consumable,
+    TwoHandedWeapon,
+    Weapon,
+    Shield,
+    Helmet,
+    Neck,
+    Body,
+    Legs,
+    Boots,
+    Back,
+    Gloves,
+    Ring
 }
