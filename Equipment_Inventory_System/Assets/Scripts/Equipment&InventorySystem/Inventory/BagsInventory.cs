@@ -4,6 +4,7 @@ using UnityEngine;
 public class BagsInventory : MonoBehaviour
 {
     public List<Bag> Bags { get; }
+    private byte bagCount = 5;
 
     public BagsInventory()
     {
